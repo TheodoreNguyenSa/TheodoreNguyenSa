@@ -1,6 +1,9 @@
-**Hi, I'm Xuan Toan Nguyen!
-Data Scientist & Team Leader**
-📞 Phone: +84.934319222 📧 Email: nguyenxuantoan@cfvg.org
+**Hi, I'm Xuan Toan Nguyen!**
+
+**Data Scientist & Team Leader**
+
+Address: Wilgena Avenue Myrtle Bank, SA 5064, Australia. </br>
+📧 Email: nguyenxuantoan@cfvg.org
 
 **Summary:**
 
@@ -9,41 +12,53 @@ Data Scientist & Team Leader**
 **Education:**
 
 💼 MBA, CFVG (Centre Franco-Vietnamien de formation à la Gestion), Hanoi - Vietnam (2013)
+
 💼 BSc in Electronics and Telecommunications, Hanoi University of Technology, Hanoi - Vietnam (2001)
+
 Experience:
 💼 Team Leader of AI and Data Analysis, Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV), BIDV Digital Banking Center (2018-present)
+
 💼 Assistant Vice President, Deputy Head Management, BIDV Contact Center (2013-2017)
+
 💼 Software Engineer, BIDV Information Technology Central (2001-2013)
 
 **Outstanding Projects:**
 
-🌟 Customer Potential Forecasting for SmartBanking
+_🌟 Customer Potential Forecasting for SmartBanking_
+
 Forecast existing BIDV customers who need to open a SmartBanking account.
 Utilized Random Forest algorithm with a model accuracy of ~83%.
 
-🌟 Increase Credit Card Limit for BIDV Customers
+_🌟 Increase Credit Card Limit for BIDV Customers_
+
 Boosted credit card limits for customers with high spending needs using BIDV cards.
 
-🌟 Churned Customer Forecast
+_🌟 Churned Customer Forecast_
+
 Predicted customers likely to leave their 2 deposit products (CD) and current account (DD) in the near future.
 Achieved an accuracy of 85% for the DD churn prediction model and 80% for the CD churn prediction model using LightGBM and Random Forest algorithms.
 
-🌟 Credit Card Spending Analysis
+_🌟 Credit Card Spending Analysis_
+
 Segmented BIDV credit card customers into Active/At risk/Churned Customer groups and predicted their next spending amount/day and next spending products.
 Employed RFM analysis for customer segmentation and XGBoost algorithm for predictions.
 
-🌟 Customer Potential Forecasting for BIDVHome
+_🌟 Customer Potential Forecasting for BIDVHome_
+
 Forecasted customers' ability to borrow for real estate and housing, providing guidance to use the BIDVHome app and register for a loan.
 Utilized Random Forest algorithm with an accuracy of 84%.
 
-🌟 SMB Feature Customization
+_🌟 SMB Feature Customization_
+
 Customized the display on the SMB app for each customer based on their past behavior.
 Utilized descriptive analysis and Hybrid Recommendation Systems.
 
-🌟 OCR Model for Vietnamese Text Character Conversion
+_🌟 OCR Model for Vietnamese Text Character Conversion_
+
 Built an OCR model to convert information from images to Vietnamese text characters and implemented it in the process of opening new customers at BIDV by batch.
 
-🌟 Scraper Application for User Reviews
+_🌟 Scraper Application for User Reviews_
+
 Developed a Scraper application to gather information about user reviews on 2 CH Play and Apple Store.
 
 **Skills:**
