@@ -4,23 +4,28 @@
 
 Address: Wilgena Avenue Myrtle Bank, SA 5064, Australia. </br>
 📧 Email: nguyenxuantoan@cfvg.org
+<hr/>
 
 **Summary:**
 
 🚀 Highly skilled and motivated data scientist and team leader with 5+ years of experience in data analysis and 15+ years of team leadership experience. Proficient in AI/ML, Python, SQL, and data visualization tools such as Tableau and PowerBI. Passionate about driving business decisions and leading teams effectively.
+<hr/>
 
 **Education:**
 
 💼 MBA, CFVG (Centre Franco-Vietnamien de formation à la Gestion), Hanoi - Vietnam (2013)
 
 💼 BSc in Electronics and Telecommunications, Hanoi University of Technology, Hanoi - Vietnam (2001)
+<hr/>
 
-Experience:
+**Experience:**
 💼 Team Leader of AI and Data Analysis, Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV), BIDV Digital Banking Center (2018-present)
 
 💼 Assistant Vice President, Deputy Head Management, BIDV Contact Center (2013-2017)
 
 💼 Software Engineer, BIDV Information Technology Central (2001-2013)
+
+<hr/>
 
 **Outstanding Projects:**
 
@@ -61,6 +66,8 @@ _🌟 Scraper Application for User Reviews_
 
 Developed a Scraper application to gather information about user reviews on 2 CH Play and Apple Store.
 
+<hr/>
+
 **Skills:**
 
 🔬 Strong proficiency in AI/ML, cloud computing, big data, data analytics, data warehousing, and BI systems
@@ -78,6 +85,8 @@ Developed a Scraper application to gather information about user reviews on 2 CH
 📊 Ability to plan and control work effectively
 
 💡 Active, energetic, innovative, and always eager to learn
+
+<hr/>
 
 **Certifications:**
 IBM AI Engineering Professional Certificate IBM Data Science Professional Certificate
