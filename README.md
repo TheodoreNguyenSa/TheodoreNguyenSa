@@ -3,7 +3,7 @@
 **Data Scientist & Team Leader**
 
 Address: Wilgena Avenue Myrtle Bank, SA 5064, Australia. </br>
-📧 Email: nguyenxuantoan@cfvg.org
+📧 Email: theodorenguyensa@gmail.com
 <hr/>
 
 **Summary:**
