@@ -8,7 +8,7 @@ Adelaide, South Australia.
 
 **Summary:**
 
-🚀 Highly skilled and motivated data scientist and team leader with 5+ years of experience in data analysis and 15+ years of team leadership experience. Proficient in AI/ML, Python, SQL, and data visualization tools such as Tableau and PowerBI. Passionate about driving business decisions and leading teams effectively.
+🚀 IT Support Specialist and Team Leader with 24 years at BIDV (2001–2025), including leading Technology Operations, Systems Support & Data Analytics. WorldSkills Australia 2026 Gold Medal — IT Network Systems Administration, and Silver Medal — Cloud Computing (SA Regional). Skilled in Windows systems administration, Microsoft 365, Active Directory, PowerShell, networking and service desk support.
 <hr/>
 
 **Education:**
