@@ -1,6 +1,6 @@
 **Hi, I'm Xuan Toan Nguyen!**
 
-**Data Scientist & Team Leader**
+**IT Support Specialist & Team Leader**
 
 Adelaide, South Australia.
 📧 Email: toannguyenitoz@gmail.com
