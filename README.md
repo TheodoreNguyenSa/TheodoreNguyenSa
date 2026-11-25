@@ -19,7 +19,7 @@ Adelaide, South Australia.
 <hr/>
 
 **Experience:**
-💼 Team Leader of AI and Data Analysis, Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV), BIDV Digital Banking Center (2018–2025)
+💼 Technology Operations, Systems Support & Data Analytics Team Leader, Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV), BIDV Digital Banking Center (Sep 2018 – Sep 2025)
 
 💼 Assistant Vice President, Deputy Head Management, BIDV Contact Center (2013-2017)
 
