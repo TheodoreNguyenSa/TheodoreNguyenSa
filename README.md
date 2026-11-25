@@ -2,8 +2,8 @@
 
 **Data Scientist & Team Leader**
 
-Address: Wilgena Avenue Myrtle Bank, SA 5064, Australia. </br>
-📧 Email: theodorenguyensa@gmail.com
+Adelaide, South Australia.
+📧 Email: toannguyenitoz@gmail.com
 <hr/>
 
 **Summary:**
@@ -19,7 +19,7 @@ Address: Wilgena Avenue Myrtle Bank, SA 5064, Australia. </br>
 <hr/>
 
 **Experience:**
-💼 Team Leader of AI and Data Analysis, Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV), BIDV Digital Banking Center (2018-present)
+💼 Team Leader of AI and Data Analysis, Joint Stock Commercial Bank for Investment and Development of Vietnam (BIDV), BIDV Digital Banking Center (2018–2025)
 
 💼 Assistant Vice President, Deputy Head Management, BIDV Contact Center (2013-2017)
 
